@@ -1,0 +1,1528 @@
+{
+    "paises": [
+        {
+            "id": 1,
+            "sigla": "ad",
+            "nome": "Andorra",
+            "bandeira": "assets/bandeiras-paises/ad.jpg"
+        },
+        {
+            "id": 2,
+            "sigla": "ae",
+            "nome": "Emirados Árabes Unidos",
+            "bandeira": "assets/bandeiras-paises/ae.jpg"
+        },
+        {
+            "id": 3,
+            "sigla": "af",
+            "nome": "Afeganistão",
+            "bandeira": "assets/bandeiras-paises/af.jpg"
+        },
+        {
+            "id": 4,
+            "sigla": "ag",
+            "nome": "Antígua e Barbuda",
+            "bandeira": "assets/bandeiras-paises/ag.jpg"
+        },
+        {
+            "id": 5,
+            "sigla": "ai",
+            "nome": "Anguilla",
+            "bandeira": "assets/bandeiras-paises/ai.jpg"
+        },
+        {
+            "id": 6,
+            "sigla": "al",
+            "nome": "Albânia",
+            "bandeira": "assets/bandeiras-paises/al.jpg"
+        },
+        {
+            "id": 7,
+            "sigla": "am",
+            "nome": "Armênia",
+            "bandeira": "assets/bandeiras-paises/am.jpg"
+        },
+        {
+            "id": 8,
+            "sigla": "ao",
+            "nome": "Angola",
+            "bandeira": "assets/bandeiras-paises/ao.jpg"
+        },
+        {
+            "id": 9,
+            "sigla": "aq",
+            "nome": "Antártica",
+            "bandeira": "assets/bandeiras-paises/aq.jpg"
+        },
+        {
+            "id": 10,
+            "sigla": "ar",
+            "nome": "Argentina",
+            "bandeira": "assets/bandeiras-paises/ar.jpg"
+        },
+        {
+            "id": 11,
+            "sigla": "as",
+            "nome": "Samoa Americana",
+            "bandeira": "assets/bandeiras-paises/as.jpg"
+        },
+        {
+            "id": 12,
+            "sigla": "at",
+            "nome": "Áustria",
+            "bandeira": "assets/bandeiras-paises/at.jpg"
+        },
+        {
+            "id": 13,
+            "sigla": "au",
+            "nome": "Austrália",
+            "bandeira": "assets/bandeiras-paises/au.jpg"
+        },
+        {
+            "id": 14,
+            "sigla": "aw",
+            "nome": "Aruba",
+            "bandeira": "assets/bandeiras-paises/aw.jpg"
+        },
+        {
+            "id": 15,
+            "sigla": "ax",
+            "nome": "Ilhas Aland",
+            "bandeira": "assets/bandeiras-paises/ax.jpg"
+        },
+        {
+            "id": 16,
+            "sigla": "az",
+            "nome": "Azerbaijão",
+            "bandeira": "assets/bandeiras-paises/az.jpg"
+        },
+        {
+            "id": 17,
+            "sigla": "ba",
+            "nome": "Bósnia e Herzegovina",
+            "bandeira": "assets/bandeiras-paises/ba.jpg"
+        },
+        {
+            "id": 18,
+            "sigla": "bb",
+            "nome": "Barbados",
+            "bandeira": "assets/bandeiras-paises/bb.jpg"
+        },
+        {
+            "id": 19,
+            "sigla": "bd",
+            "nome": "Bangladesh",
+            "bandeira": "assets/bandeiras-paises/bd.jpg"
+        },
+        {
+            "id": 20,
+            "sigla": "be",
+            "nome": "Bélgica",
+            "bandeira": "assets/bandeiras-paises/be.jpg"
+        },
+        {
+            "id": 21,
+            "sigla": "bf",
+            "nome": "Burkina Faso",
+            "bandeira": "assets/bandeiras-paises/bf.jpg"
+        },
+        {
+            "id": 22,
+            "sigla": "bg",
+            "nome": "Bulgária",
+            "bandeira": "assets/bandeiras-paises/bg.jpg"
+        },
+        {
+            "id": 23,
+            "sigla": "bh",
+            "nome": "Bahrein",
+            "bandeira": "assets/bandeiras-paises/bh.jpg"
+        },
+        {
+            "id": 24,
+            "sigla": "bi",
+            "nome": "Burundi",
+            "bandeira": "assets/bandeiras-paises/bi.jpg"
+        },
+        {
+            "id": 25,
+            "sigla": "bj",
+            "nome": "Benin",
+            "bandeira": "assets/bandeiras-paises/bj.jpg"
+        },
+        {
+            "id": 26,
+            "sigla": "bl",
+            "nome": "São Bartolomeu",
+            "bandeira": "assets/bandeiras-paises/bl.jpg"
+        },
+        {
+            "id": 27,
+            "sigla": "bm",
+            "nome": "Bermudas",
+            "bandeira": "assets/bandeiras-paises/bm.jpg"
+        },
+        {
+            "id": 28,
+            "sigla": "bn",
+            "nome": "Brunei",
+            "bandeira": "assets/bandeiras-paises/bn.jpg"
+        },
+        {
+            "id": 29,
+            "sigla": "bo",
+            "nome": "Bolívia",
+            "bandeira": "assets/bandeiras-paises/bo.jpg"
+        },
+        {
+            "id": 30,
+            "sigla": "bq",
+            "nome": "Bonaire, Santo Eustáquio e Saba",
+            "bandeira": "assets/bandeiras-paises/bq.jpg"
+        },
+        {
+            "id": 31,
+            "sigla": "br",
+            "nome": "Brasil",
+            "bandeira": "assets/bandeiras-paises/br.jpg"
+        },
+        {
+            "id": 32,
+            "sigla": "bs",
+            "nome": "Bahamas",
+            "bandeira": "assets/bandeiras-paises/bs.jpg"
+        },
+        {
+            "id": 33,
+            "sigla": "bt",
+            "nome": "Butão",
+            "bandeira": "assets/bandeiras-paises/bt.jpg"
+        },
+        {
+            "id": 34,
+            "sigla": "bv",
+            "nome": "Ilha Bouvet",
+            "bandeira": "assets/bandeiras-paises/bv.jpg"
+        },
+        {
+            "id": 35,
+            "sigla": "bw",
+            "nome": "Botswana",
+            "bandeira": "assets/bandeiras-paises/bw.jpg"
+        },
+        {
+            "id": 36,
+            "sigla": "by",
+            "nome": "Bielorrússia",
+            "bandeira": "assets/bandeiras-paises/by.jpg"
+        },
+        {
+            "id": 37,
+            "sigla": "bz",
+            "nome": "Belize",
+            "bandeira": "assets/bandeiras-paises/bz.jpg"
+        },
+        {
+            "id": 38,
+            "sigla": "ca",
+            "nome": "Canadá",
+            "bandeira": "assets/bandeiras-paises/ca.jpg"
+        },
+        {
+            "id": 39,
+            "sigla": "cc",
+            "nome": "Ilhas Cocos (Keeling)",
+            "bandeira": "assets/bandeiras-paises/cc.jpg"
+        },
+        {
+            "id": 40,
+            "sigla": "cd",
+            "nome": "Congo (RDC)",
+            "bandeira": "assets/bandeiras-paises/cd.jpg"
+        },
+        {
+            "id": 41,
+            "sigla": "cf",
+            "nome": "República Centro-Africana",
+            "bandeira": "assets/bandeiras-paises/cf.jpg"
+        },
+        {
+            "id": 42,
+            "sigla": "cg",
+            "nome": "Congo",
+            "bandeira": "assets/bandeiras-paises/cg.jpg"
+        },
+        {
+            "id": 43,
+            "sigla": "ch",
+            "nome": "Suíça",
+            "bandeira": "assets/bandeiras-paises/ch.jpg"
+        },
+        {
+            "id": 44,
+            "sigla": "ci",
+            "nome": "Costa do Marfim",
+            "bandeira": "assets/bandeiras-paises/ci.jpg"
+        },
+        {
+            "id": 45,
+            "sigla": "ck",
+            "nome": "Ilhas Cook",
+            "bandeira": "assets/bandeiras-paises/ck.jpg"
+        },
+        {
+            "id": 46,
+            "sigla": "cl",
+            "nome": "Chile",
+            "bandeira": "assets/bandeiras-paises/cl.jpg"
+        },
+        {
+            "id": 47,
+            "sigla": "cm",
+            "nome": "Camarões",
+            "bandeira": "assets/bandeiras-paises/cm.jpg"
+        },
+        {
+            "id": 48,
+            "sigla": "cn",
+            "nome": "China",
+            "bandeira": "assets/bandeiras-paises/cn.jpg"
+        },
+        {
+            "id": 49,
+            "sigla": "co",
+            "nome": "Colômbia",
+            "bandeira": "assets/bandeiras-paises/co.jpg"
+        },
+        {
+            "id": 50,
+            "sigla": "cr",
+            "nome": "Costa Rica",
+            "bandeira": "assets/bandeiras-paises/cr.jpg"
+        },
+        {
+            "id": 51,
+            "sigla": "cu",
+            "nome": "Cuba",
+            "bandeira": "assets/bandeiras-paises/cu.jpg"
+        },
+        {
+            "id": 52,
+            "sigla": "cv",
+            "nome": "Cabo Verde",
+            "bandeira": "assets/bandeiras-paises/cv.jpg"
+        },
+        {
+            "id": 53,
+            "sigla": "cw",
+            "nome": "Curaçao",
+            "bandeira": "assets/bandeiras-paises/cw.jpg"
+        },
+        {
+            "id": 54,
+            "sigla": "cx",
+            "nome": "Ilhas Christmas",
+            "bandeira": "assets/bandeiras-paises/cx.jpg"
+        },
+        {
+            "id": 55,
+            "sigla": "cy",
+            "nome": "Chipre",
+            "bandeira": "assets/bandeiras-paises/cy.jpg"
+        },
+        {
+            "id": 56,
+            "sigla": "cz",
+            "nome": "República Checa",
+            "bandeira": "assets/bandeiras-paises/cz.jpg"
+        },
+        {
+            "id": 57,
+            "sigla": "de",
+            "nome": "Alemanha",
+            "bandeira": "assets/bandeiras-paises/de.jpg"
+        },
+        {
+            "id": 58,
+            "sigla": "dj",
+            "nome": "Djibouti",
+            "bandeira": "assets/bandeiras-paises/dj.jpg"
+        },
+        {
+            "id": 59,
+            "sigla": "dk",
+            "nome": "Dinamarca",
+            "bandeira": "assets/bandeiras-paises/dk.jpg"
+        },
+        {
+            "id": 60,
+            "sigla": "dm",
+            "nome": "Dominica",
+            "bandeira": "assets/bandeiras-paises/dm.jpg"
+        },
+        {
+            "id": 61,
+            "sigla": "do",
+            "nome": "República Dominicana",
+            "bandeira": "assets/bandeiras-paises/do.jpg"
+        },
+        {
+            "id": 62,
+            "sigla": "dz",
+            "nome": "Argélia",
+            "bandeira": "assets/bandeiras-paises/dz.jpg"
+        },
+        {
+            "id": 63,
+            "sigla": "ec",
+            "nome": "Equador",
+            "bandeira": "assets/bandeiras-paises/ec.jpg"
+        },
+        {
+            "id": 64,
+            "sigla": "ee",
+            "nome": "Estônia",
+            "bandeira": "assets/bandeiras-paises/ee.jpg"
+        },
+        {
+            "id": 65,
+            "sigla": "eg",
+            "nome": "Egito",
+            "bandeira": "assets/bandeiras-paises/eg.jpg"
+        },
+        {
+            "id": 66,
+            "sigla": "eh",
+            "nome": "Saara Ocidental",
+            "bandeira": "assets/bandeiras-paises/eh.jpg"
+        },
+        {
+            "id": 67,
+            "sigla": "er",
+            "nome": "Eritreia",
+            "bandeira": "assets/bandeiras-paises/er.jpg"
+        },
+        {
+            "id": 68,
+            "sigla": "es",
+            "nome": "Espanha",
+            "bandeira": "assets/bandeiras-paises/es.jpg"
+        },
+        {
+            "id": 69,
+            "sigla": "et",
+            "nome": "Etiópia",
+            "bandeira": "assets/bandeiras-paises/et.jpg"
+        },
+        {
+            "id": 70,
+            "sigla": "fi",
+            "nome": "Finlândia",
+            "bandeira": "assets/bandeiras-paises/fi.jpg"
+        },
+        {
+            "id": 71,
+            "sigla": "fj",
+            "nome": "Fiji",
+            "bandeira": "assets/bandeiras-paises/fj.jpg"
+        },
+        {
+            "id": 72,
+            "sigla": "fk",
+            "nome": "Ilhas Malvinas",
+            "bandeira": "assets/bandeiras-paises/fk.jpg"
+        },
+        {
+            "id": 73,
+            "sigla": "fm",
+            "nome": "Micronésia",
+            "bandeira": "assets/bandeiras-paises/fm.jpg"
+        },
+        {
+            "id": 74,
+            "sigla": "fo",
+            "nome": "Ilhas Faroe",
+            "bandeira": "assets/bandeiras-paises/fo.jpg"
+        },
+        {
+            "id": 75,
+            "sigla": "fr",
+            "nome": "França",
+            "bandeira": "assets/bandeiras-paises/fr.jpg"
+        },
+        {
+            "id": 76,
+            "sigla": "ga",
+            "nome": "Gabão",
+            "bandeira": "assets/bandeiras-paises/ga.jpg"
+        },
+        {
+            "id": 77,
+            "sigla": "gb-eng",
+            "nome": "Inglaterra",
+            "bandeira": "assets/bandeiras-paises/gb-eng.jpg"
+        },
+        {
+            "id": 78,
+            "sigla": "gb-nir",
+            "nome": "Irlanda do Norte",
+            "bandeira": "assets/bandeiras-paises/gb-nir.jpg"
+        },
+        {
+            "id": 79,
+            "sigla": "gb-sct",
+            "nome": "Escócia",
+            "bandeira": "assets/bandeiras-paises/gb-sct.jpg"
+        },
+        {
+            "id": 80,
+            "sigla": "gb-wls",
+            "nome": "País de Gales",
+            "bandeira": "assets/bandeiras-paises/gb-wls.jpg"
+        },
+        {
+            "id": 81,
+            "sigla": "gb",
+            "nome": "Reino Unido",
+            "bandeira": "assets/bandeiras-paises/gb.jpg"
+        },
+        {
+            "id": 82,
+            "sigla": "gd",
+            "nome": "Granada",
+            "bandeira": "assets/bandeiras-paises/gd.jpg"
+        },
+        {
+            "id": 83,
+            "sigla": "ge",
+            "nome": "Geórgia",
+            "bandeira": "assets/bandeiras-paises/ge.jpg"
+        },
+        {
+            "id": 84,
+            "sigla": "gf",
+            "nome": "Guiana Francesa",
+            "bandeira": "assets/bandeiras-paises/gf.jpg"
+        },
+        {
+            "id": 85,
+            "sigla": "gg",
+            "nome": "Guernsey",
+            "bandeira": "assets/bandeiras-paises/gg.jpg"
+        },
+        {
+            "id": 86,
+            "sigla": "gh",
+            "nome": "Gana",
+            "bandeira": "assets/bandeiras-paises/gh.jpg"
+        },
+        {
+            "id": 87,
+            "sigla": "gi",
+            "nome": "Gibraltar",
+            "bandeira": "assets/bandeiras-paises/gi.jpg"
+        },
+        {
+            "id": 88,
+            "sigla": "gl",
+            "nome": "Groenlândia",
+            "bandeira": "assets/bandeiras-paises/gl.jpg"
+        },
+        {
+            "id": 89,
+            "sigla": "gm",
+            "nome": "Gâmbia",
+            "bandeira": "assets/bandeiras-paises/gm.jpg"
+        },
+        {
+            "id": 90,
+            "sigla": "gn",
+            "nome": "Guiné",
+            "bandeira": "assets/bandeiras-paises/gn.jpg"
+        },
+        {
+            "id": 91,
+            "sigla": "gp",
+            "nome": "Guadalupe",
+            "bandeira": "assets/bandeiras-paises/gp.jpg"
+        },
+        {
+            "id": 92,
+            "sigla": "gq",
+            "nome": "Guiné Equatorial",
+            "bandeira": "assets/bandeiras-paises/gq.jpg"
+        },
+        {
+            "id": 93,
+            "sigla": "gr",
+            "nome": "Grécia",
+            "bandeira": "assets/bandeiras-paises/gr.jpg"
+        },
+        {
+            "id": 94,
+            "sigla": "gs",
+            "nome": "Ilhas Geórgia do Sul e Sandwich do Sul",
+            "bandeira": "assets/bandeiras-paises/gs.jpg"
+        },
+        {
+            "id": 95,
+            "sigla": "gt",
+            "nome": "Guatemala",
+            "bandeira": "assets/bandeiras-paises/gt.jpg"
+        },
+        {
+            "id": 96,
+            "sigla": "gu",
+            "nome": "Guam",
+            "bandeira": "assets/bandeiras-paises/gu.jpg"
+        },
+        {
+            "id": 97,
+            "sigla": "gw",
+            "nome": "Guiné-Bissau",
+            "bandeira": "assets/bandeiras-paises/gw.jpg"
+        },
+        {
+            "id": 98,
+            "sigla": "gy",
+            "nome": "Guiana",
+            "bandeira": "assets/bandeiras-paises/gy.jpg"
+        },
+        {
+            "id": 99,
+            "sigla": "hk",
+            "nome": "Hong Kong",
+            "bandeira": "assets/bandeiras-paises/hk.jpg"
+        },
+        {
+            "id": 100,
+            "sigla": "hm",
+            "nome": "Ilhas Heard e McDonald",
+            "bandeira": "assets/bandeiras-paises/hm.jpg"
+        },
+        {
+            "id": 101,
+            "sigla": "hn",
+            "nome": "Honduras",
+            "bandeira": "assets/bandeiras-paises/hn.jpg"
+        },
+        {
+            "id": 102,
+            "sigla": "hr",
+            "nome": "Croácia",
+            "bandeira": "assets/bandeiras-paises/hr.jpg"
+        },
+        {
+            "id": 103,
+            "sigla": "ht",
+            "nome": "Haiti",
+            "bandeira": "assets/bandeiras-paises/ht.jpg"
+        },
+        {
+            "id": 104,
+            "sigla": "hu",
+            "nome": "Hungria",
+            "bandeira": "assets/bandeiras-paises/hu.jpg"
+        },
+        {
+            "id": 105,
+            "sigla": "id",
+            "nome": "Indonésia",
+            "bandeira": "assets/bandeiras-paises/id.jpg"
+        },
+        {
+            "id": 106,
+            "sigla": "ie",
+            "nome": "Irlanda",
+            "bandeira": "assets/bandeiras-paises/ie.jpg"
+        },
+        {
+            "id": 107,
+            "sigla": "il",
+            "nome": "Israel",
+            "bandeira": "assets/bandeiras-paises/il.jpg"
+        },
+        {
+            "id": 108,
+            "sigla": "im",
+            "nome": "Ilha de Man",
+            "bandeira": "assets/bandeiras-paises/im.jpg"
+        },
+        {
+            "id": 109,
+            "sigla": "in",
+            "nome": "Índia",
+            "bandeira": "assets/bandeiras-paises/in.jpg"
+        },
+        {
+            "id": 110,
+            "sigla": "io",
+            "nome": "Território Britânico do Oceano Índico",
+            "bandeira": "assets/bandeiras-paises/io.jpg"
+        },
+        {
+            "id": 111,
+            "sigla": "iq",
+            "nome": "Iraque",
+            "bandeira": "assets/bandeiras-paises/iq.jpg"
+        },
+        {
+            "id": 112,
+            "sigla": "ir",
+            "nome": "Irã",
+            "bandeira": "assets/bandeiras-paises/ir.jpg"
+        },
+        {
+            "id": 113,
+            "sigla": "is",
+            "nome": "Islândia",
+            "bandeira": "assets/bandeiras-paises/is.jpg"
+        },
+        {
+            "id": 114,
+            "sigla": "it",
+            "nome": "Itália",
+            "bandeira": "assets/bandeiras-paises/it.jpg"
+        },
+        {
+            "id": 115,
+            "sigla": "je",
+            "nome": "Jersey",
+            "bandeira": "assets/bandeiras-paises/je.jpg"
+        },
+        {
+            "id": 116,
+            "sigla": "jm",
+            "nome": "Jamaica",
+            "bandeira": "assets/bandeiras-paises/jm.jpg"
+        },
+        {
+            "id": 117,
+            "sigla": "jo",
+            "nome": "Jordânia",
+            "bandeira": "assets/bandeiras-paises/jo.jpg"
+        },
+        {
+            "id": 118,
+            "sigla": "jp",
+            "nome": "Japão",
+            "bandeira": "assets/bandeiras-paises/jp.jpg"
+        },
+        {
+            "id": 119,
+            "sigla": "ke",
+            "nome": "Quênia",
+            "bandeira": "assets/bandeiras-paises/ke.jpg"
+        },
+        {
+            "id": 120,
+            "sigla": "kg",
+            "nome": "Quirguistão",
+            "bandeira": "assets/bandeiras-paises/kg.jpg"
+        },
+        {
+            "id": 121,
+            "sigla": "kh",
+            "nome": "Camboja",
+            "bandeira": "assets/bandeiras-paises/kh.jpg"
+        },
+        {
+            "id": 122,
+            "sigla": "ki",
+            "nome": "Kiribati",
+            "bandeira": "assets/bandeiras-paises/ki.jpg"
+        },
+        {
+            "id": 123,
+            "sigla": "km",
+            "nome": "Comores",
+            "bandeira": "assets/bandeiras-paises/km.jpg"
+        },
+        {
+            "id": 124,
+            "sigla": "kn",
+            "nome": "São Cristóvão e Nevis",
+            "bandeira": "assets/bandeiras-paises/kn.jpg"
+        },
+        {
+            "id": 125,
+            "sigla": "kp",
+            "nome": "Coreia do Norte",
+            "bandeira": "assets/bandeiras-paises/kp.jpg"
+        },
+        {
+            "id": 126,
+            "sigla": "kr",
+            "nome": "Coreia do Sul",
+            "bandeira": "assets/bandeiras-paises/kr.jpg"
+        },
+        {
+            "id": 127,
+            "sigla": "kw",
+            "nome": "Kuwait",
+            "bandeira": "assets/bandeiras-paises/kw.jpg"
+        },
+        {
+            "id": 128,
+            "sigla": "ky",
+            "nome": "Ilhas Caimã",
+            "bandeira": "assets/bandeiras-paises/ky.jpg"
+        },
+        {
+            "id": 129,
+            "sigla": "kz",
+            "nome": "Cazaquistão",
+            "bandeira": "assets/bandeiras-paises/kz.jpg"
+        },
+        {
+            "id": 130,
+            "sigla": "la",
+            "nome": "Laos",
+            "bandeira": "assets/bandeiras-paises/la.jpg"
+        },
+        {
+            "id": 131,
+            "sigla": "lb",
+            "nome": "Líbano",
+            "bandeira": "assets/bandeiras-paises/lb.jpg"
+        },
+        {
+            "id": 132,
+            "sigla": "lc",
+            "nome": "Santa Lúcia",
+            "bandeira": "assets/bandeiras-paises/lc.jpg"
+        },
+        {
+            "id": 133,
+            "sigla": "li",
+            "nome": "Liechtenstein",
+            "bandeira": "assets/bandeiras-paises/li.jpg"
+        },
+        {
+            "id": 134,
+            "sigla": "lk",
+            "nome": "Sri Lanka",
+            "bandeira": "assets/bandeiras-paises/lk.jpg"
+        },
+        {
+            "id": 135,
+            "sigla": "lr",
+            "nome": "Libéria",
+            "bandeira": "assets/bandeiras-paises/lr.jpg"
+        },
+        {
+            "id": 136,
+            "sigla": "ls",
+            "nome": "Lesoto",
+            "bandeira": "assets/bandeiras-paises/ls.jpg"
+        },
+        {
+            "id": 137,
+            "sigla": "lt",
+            "nome": "Lituânia",
+            "bandeira": "assets/bandeiras-paises/lt.jpg"
+        },
+        {
+            "id": 138,
+            "sigla": "lu",
+            "nome": "Luxemburgo",
+            "bandeira": "assets/bandeiras-paises/lu.jpg"
+        },
+        {
+            "id": 139,
+            "sigla": "lv",
+            "nome": "Letônia",
+            "bandeira": "assets/bandeiras-paises/lv.jpg"
+        },
+        {
+            "id": 140,
+            "sigla": "ly",
+            "nome": "Líbia",
+            "bandeira": "assets/bandeiras-paises/ly.jpg"
+        },
+        {
+            "id": 141,
+            "sigla": "ma",
+            "nome": "Marrocos",
+            "bandeira": "assets/bandeiras-paises/ma.jpg"
+        },
+        {
+            "id": 142,
+            "sigla": "mc",
+            "nome": "Mônaco",
+            "bandeira": "assets/bandeiras-paises/mc.jpg"
+        },
+        {
+            "id": 143,
+            "sigla": "md",
+            "nome": "Moldávia",
+            "bandeira": "assets/bandeiras-paises/md.jpg"
+        },
+        {
+            "id": 144,
+            "sigla": "me",
+            "nome": "Montenegro",
+            "bandeira": "assets/bandeiras-paises/me.jpg"
+        },
+        {
+            "id": 145,
+            "sigla": "mf",
+            "nome": "São Martinho",
+            "bandeira": "assets/bandeiras-paises/mf.jpg"
+        },
+        {
+            "id": 146,
+            "sigla": "mg",
+            "nome": "Madagascar",
+            "bandeira": "assets/bandeiras-paises/mg.jpg"
+        },
+        {
+            "id": 147,
+            "sigla": "mh",
+            "nome": "Ilhas Marshall",
+            "bandeira": "assets/bandeiras-paises/mh.jpg"
+        },
+        {
+            "id": 148,
+            "sigla": "mk",
+            "nome": "Macedônia do Norte",
+            "bandeira": "assets/bandeiras-paises/mk.jpg"
+        },
+        {
+            "id": 149,
+            "sigla": "ml",
+            "nome": "Mali",
+            "bandeira": "assets/bandeiras-paises/ml.jpg"
+        },
+        {
+            "id": 150,
+            "sigla": "mm",
+            "nome": "Mianmar",
+            "bandeira": "assets/bandeiras-paises/mm.jpg"
+        },
+        {
+            "id": 151,
+            "sigla": "mn",
+            "nome": "Mongólia",
+            "bandeira": "assets/bandeiras-paises/mn.jpg"
+        },
+        {
+            "id": 152,
+            "sigla": "mo",
+            "nome": "Macau",
+            "bandeira": "assets/bandeiras-paises/mo.jpg"
+        },
+        {
+            "id": 153,
+            "sigla": "mp",
+            "nome": "Ilhas Marianas do Norte",
+            "bandeira": "assets/bandeiras-paises/mp.jpg"
+        },
+        {
+            "id": 154,
+            "sigla": "mq",
+            "nome": "Martinica",
+            "bandeira": "assets/bandeiras-paises/mq.jpg"
+        },
+        {
+            "id": 155,
+            "sigla": "mr",
+            "nome": "Mauritânia",
+            "bandeira": "assets/bandeiras-paises/mr.jpg"
+        },
+        {
+            "id": 156,
+            "sigla": "ms",
+            "nome": "Montserrat",
+            "bandeira": "assets/bandeiras-paises/ms.jpg"
+        },
+        {
+            "id": 157,
+            "sigla": "mt",
+            "nome": "Malta",
+            "bandeira": "assets/bandeiras-paises/mt.jpg"
+        },
+        {
+            "id": 158,
+            "sigla": "mu",
+            "nome": "Maurício",
+            "bandeira": "assets/bandeiras-paises/mu.jpg"
+        },
+        {
+            "id": 159,
+            "sigla": "mv",
+            "nome": "Maldivas",
+            "bandeira": "assets/bandeiras-paises/mv.jpg"
+        },
+        {
+            "id": 160,
+            "sigla": "mw",
+            "nome": "Malawi",
+            "bandeira": "assets/bandeiras-paises/mw.jpg"
+        },
+        {
+            "id": 161,
+            "sigla": "mx",
+            "nome": "México",
+            "bandeira": "assets/bandeiras-paises/mx.jpg"
+        },
+        {
+            "id": 162,
+            "sigla": "my",
+            "nome": "Malásia",
+            "bandeira": "assets/bandeiras-paises/my.jpg"
+        },
+        {
+            "id": 163,
+            "sigla": "mz",
+            "nome": "Moçambique",
+            "bandeira": "assets/bandeiras-paises/mz.jpg"
+        },
+        {
+            "id": 164,
+            "sigla": "na",
+            "nome": "Namíbia",
+            "bandeira": "assets/bandeiras-paises/na.jpg"
+        },
+        {
+            "id": 165,
+            "sigla": "nc",
+            "nome": "Nova Caledônia",
+            "bandeira": "assets/bandeiras-paises/nc.jpg"
+        },
+        {
+            "id": 166,
+            "sigla": "ne",
+            "nome": "Níger",
+            "bandeira": "assets/bandeiras-paises/ne.jpg"
+        },
+        {
+            "id": 167,
+            "sigla": "nf",
+            "nome": "Ilha Norfolk",
+            "bandeira": "assets/bandeiras-paises/nf.jpg"
+        },
+        {
+            "id": 168,
+            "sigla": "ng",
+            "nome": "Nigéria",
+            "bandeira": "assets/bandeiras-paises/ng.jpg"
+        },
+        {
+            "id": 169,
+            "sigla": "ni",
+            "nome": "Nicarágua",
+            "bandeira": "assets/bandeiras-paises/ni.jpg"
+        },
+        {
+            "id": 170,
+            "sigla": "nl",
+            "nome": "Holanda",
+            "bandeira": "assets/bandeiras-paises/nl.jpg"
+        },
+        {
+            "id": 171,
+            "sigla": "no",
+            "nome": "Noruega",
+            "bandeira": "assets/bandeiras-paises/no.jpg"
+        },
+        {
+            "id": 172,
+            "sigla": "np",
+            "nome": "Nepal",
+            "bandeira": "assets/bandeiras-paises/np.jpg"
+        },
+        {
+            "id": 173,
+            "sigla": "nr",
+            "nome": "Nauru",
+            "bandeira": "assets/bandeiras-paises/nr.jpg"
+        },
+        {
+            "id": 174,
+            "sigla": "nu",
+            "nome": "Niue",
+            "bandeira": "assets/bandeiras-paises/nu.jpg"
+        },
+        {
+            "id": 175,
+            "sigla": "nz",
+            "nome": "Nova Zelândia",
+            "bandeira": "assets/bandeiras-paises/nz.jpg"
+        },
+        {
+            "id": 176,
+            "sigla": "om",
+            "nome": "Omã",
+            "bandeira": "assets/bandeiras-paises/om.jpg"
+        },
+        {
+            "id": 177,
+            "sigla": "pa",
+            "nome": "Panamá",
+            "bandeira": "assets/bandeiras-paises/pa.jpg"
+        },
+        {
+            "id": 178,
+            "sigla": "pe",
+            "nome": "Peru",
+            "bandeira": "assets/bandeiras-paises/pe.jpg"
+        },
+        {
+            "id": 179,
+            "sigla": "pf",
+            "nome": "Polinésia Francesa",
+            "bandeira": "assets/bandeiras-paises/pf.jpg"
+        },
+        {
+            "id": 180,
+            "sigla": "pg",
+            "nome": "Papua Nova Guiné",
+            "bandeira": "assets/bandeiras-paises/pg.jpg"
+        },
+        {
+            "id": 181,
+            "sigla": "ph",
+            "nome": "Filipinas",
+            "bandeira": "assets/bandeiras-paises/ph.jpg"
+        },
+        {
+            "id": 182,
+            "sigla": "pk",
+            "nome": "Paquistão",
+            "bandeira": "assets/bandeiras-paises/pk.jpg"
+        },
+        {
+            "id": 183,
+            "sigla": "pl",
+            "nome": "Polônia",
+            "bandeira": "assets/bandeiras-paises/pl.jpg"
+        },
+        {
+            "id": 184,
+            "sigla": "pm",
+            "nome": "São Pedro e Miquelon",
+            "bandeira": "assets/bandeiras-paises/pm.jpg"
+        },
+        {
+            "id": 185,
+            "sigla": "pn",
+            "nome": "Pitcairn",
+            "bandeira": "assets/bandeiras-paises/pn.jpg"
+        },
+        {
+            "id": 186,
+            "sigla": "pr",
+            "nome": "Porto Rico",
+            "bandeira": "assets/bandeiras-paises/pr.jpg"
+        },
+        {
+            "id": 187,
+            "sigla": "ps",
+            "nome": "Territórios Palestinos",
+            "bandeira": "assets/bandeiras-paises/ps.jpg"
+        },
+        {
+            "id": 188,
+            "sigla": "pt",
+            "nome": "Portugal",
+            "bandeira": "assets/bandeiras-paises/pt.jpg"
+        },
+        {
+            "id": 189,
+            "sigla": "pw",
+            "nome": "Palau",
+            "bandeira": "assets/bandeiras-paises/pw.jpg"
+        },
+        {
+            "id": 190,
+            "sigla": "py",
+            "nome": "Paraguai",
+            "bandeira": "assets/bandeiras-paises/py.jpg"
+        },
+        {
+            "id": 191,
+            "sigla": "qa",
+            "nome": "Catar",
+            "bandeira": "assets/bandeiras-paises/qa.jpg"
+        },
+        {
+            "id": 192,
+            "sigla": "re",
+            "nome": "Reunião",
+            "bandeira": "assets/bandeiras-paises/re.jpg"
+        },
+        {
+            "id": 193,
+            "sigla": "ro",
+            "nome": "Romênia",
+            "bandeira": "assets/bandeiras-paises/ro.jpg"
+        },
+        {
+            "id": 194,
+            "sigla": "rs",
+            "nome": "Sérvia",
+            "bandeira": "assets/bandeiras-paises/rs.jpg"
+        },
+        {
+            "id": 195,
+            "sigla": "ru",
+            "nome": "Rússia",
+            "bandeira": "assets/bandeiras-paises/ru.jpg"
+        },
+        {
+            "id": 196,
+            "sigla": "rw",
+            "nome": "Ruanda",
+            "bandeira": "assets/bandeiras-paises/rw.jpg"
+        },
+        {
+            "id": 197,
+            "sigla": "sa",
+            "nome": "Arábia Saudita",
+            "bandeira": "assets/bandeiras-paises/sa.jpg"
+        },
+        {
+            "id": 198,
+            "sigla": "sb",
+            "nome": "Ilhas Salomão",
+            "bandeira": "assets/bandeiras-paises/sb.jpg"
+        },
+        {
+            "id": 199,
+            "sigla": "sc",
+            "nome": "Seychelles",
+            "bandeira": "assets/bandeiras-paises/sc.jpg"
+        },
+        {
+            "id": 200,
+            "sigla": "sd",
+            "nome": "Sudão",
+            "bandeira": "assets/bandeiras-paises/sd.jpg"
+        },
+        {
+            "id": 201,
+            "sigla": "se",
+            "nome": "Suécia",
+            "bandeira": "assets/bandeiras-paises/se.jpg"
+        },
+        {
+            "id": 202,
+            "sigla": "sg",
+            "nome": "Cingapura",
+            "bandeira": "assets/bandeiras-paises/sg.jpg"
+        },
+        {
+            "id": 203,
+            "sigla": "sh",
+            "nome": "Santa Helena",
+            "bandeira": "assets/bandeiras-paises/sh.jpg"
+        },
+        {
+            "id": 204,
+            "sigla": "si",
+            "nome": "Eslovênia",
+            "bandeira": "assets/bandeiras-paises/si.jpg"
+        },
+        {
+            "id": 205,
+            "sigla": "sj",
+            "nome": "Svalbard e Jan Mayen",
+            "bandeira": "assets/bandeiras-paises/sj.jpg"
+        },
+        {
+            "id": 206,
+            "sigla": "sk",
+            "nome": "Eslováquia",
+            "bandeira": "assets/bandeiras-paises/sk.jpg"
+        },
+        {
+            "id": 207,
+            "sigla": "sl",
+            "nome": "Serra Leoa",
+            "bandeira": "assets/bandeiras-paises/sl.jpg"
+        },
+        {
+            "id": 208,
+            "sigla": "sm",
+            "nome": "San Marino",
+            "bandeira": "assets/bandeiras-paises/sm.jpg"
+        },
+        {
+            "id": 209,
+            "sigla": "sn",
+            "nome": "Senegal",
+            "bandeira": "assets/bandeiras-paises/sn.jpg"
+        },
+        {
+            "id": 210,
+            "sigla": "so",
+            "nome": "Somália",
+            "bandeira": "assets/bandeiras-paises/so.jpg"
+        },
+        {
+            "id": 211,
+            "sigla": "sr",
+            "nome": "Suriname",
+            "bandeira": "assets/bandeiras-paises/sr.jpg"
+        },
+        {
+            "id": 212,
+            "sigla": "ss",
+            "nome": "Sudão do Sul",
+            "bandeira": "assets/bandeiras-paises/ss.jpg"
+        },
+        {
+            "id": 213,
+            "sigla": "st",
+            "nome": "São Tomé e Príncipe",
+            "bandeira": "assets/bandeiras-paises/st.jpg"
+        },
+        {
+            "id": 214,
+            "sigla": "sv",
+            "nome": "El Salvador",
+            "bandeira": "assets/bandeiras-paises/sv.jpg"
+        },
+        {
+            "id": 215,
+            "sigla": "sx",
+            "nome": "Sint Maarten",
+            "bandeira": "assets/bandeiras-paises/sx.jpg"
+        },
+        {
+            "id": 216,
+            "sigla": "sy",
+            "nome": "Síria",
+            "bandeira": "assets/bandeiras-paises/sy.jpg"
+        },
+        {
+            "id": 217,
+            "sigla": "sz",
+            "nome": "Eswatini",
+            "bandeira": "assets/bandeiras-paises/sz.jpg"
+        },
+        {
+            "id": 218,
+            "sigla": "tc",
+            "nome": "Ilhas Turks e Caicos",
+            "bandeira": "assets/bandeiras-paises/tc.jpg"
+        },
+        {
+            "id": 219,
+            "sigla": "td",
+            "nome": "Chade",
+            "bandeira": "assets/bandeiras-paises/td.jpg"
+        },
+        {
+            "id": 220,
+            "sigla": "tf",
+            "nome": "Terras Austrais e Antárticas Francesas",
+            "bandeira": "assets/bandeiras-paises/tf.jpg"
+        },
+        {
+            "id": 221,
+            "sigla": "tg",
+            "nome": "Togo",
+            "bandeira": "assets/bandeiras-paises/tg.jpg"
+        },
+        {
+            "id": 222,
+            "sigla": "th",
+            "nome": "Tailândia",
+            "bandeira": "assets/bandeiras-paises/th.jpg"
+        },
+        {
+            "id": 223,
+            "sigla": "tj",
+            "nome": "Tadjiquistão",
+            "bandeira": "assets/bandeiras-paises/tj.jpg"
+        },
+        {
+            "id": 224,
+            "sigla": "tk",
+            "nome": "Tokelau",
+            "bandeira": "assets/bandeiras-paises/tk.jpg"
+        },
+        {
+            "id": 225,
+            "sigla": "tl",
+            "nome": "Timor-Leste",
+            "bandeira": "assets/bandeiras-paises/tl.jpg"
+        },
+        {
+            "id": 226,
+            "sigla": "tm",
+            "nome": "Turcomenistão",
+            "bandeira": "assets/bandeiras-paises/tm.jpg"
+        },
+        {
+            "id": 227,
+            "sigla": "tn",
+            "nome": "Tunísia",
+            "bandeira": "assets/bandeiras-paises/tn.jpg"
+        },
+        {
+            "id": 228,
+            "sigla": "to",
+            "nome": "Tonga",
+            "bandeira": "assets/bandeiras-paises/to.jpg"
+        },
+        {
+            "id": 229,
+            "sigla": "tr",
+            "nome": "Turquia",
+            "bandeira": "assets/bandeiras-paises/tr.jpg"
+        },
+        {
+            "id": 230,
+            "sigla": "tt",
+            "nome": "Trinidad e Tobago",
+            "bandeira": "assets/bandeiras-paises/tt.jpg"
+        },
+        {
+            "id": 231,
+            "sigla": "tv",
+            "nome": "Tuvalu",
+            "bandeira": "assets/bandeiras-paises/tv.jpg"
+        },
+        {
+            "id": 232,
+            "sigla": "tw",
+            "nome": "Taiwan",
+            "bandeira": "assets/bandeiras-paises/tw.jpg"
+        },
+        {
+            "id": 233,
+            "sigla": "tz",
+            "nome": "Tanzânia",
+            "bandeira": "assets/bandeiras-paises/tz.jpg"
+        },
+        {
+            "id": 234,
+            "sigla": "ua",
+            "nome": "Ucrânia",
+            "bandeira": "assets/bandeiras-paises/ua.jpg"
+        },
+        {
+            "id": 235,
+            "sigla": "ug",
+            "nome": "Uganda",
+            "bandeira": "assets/bandeiras-paises/ug.jpg"
+        },
+        {
+            "id": 236,
+            "sigla": "um",
+            "nome": "Ilhas Menores Distantes dos EUA",
+            "bandeira": "assets/bandeiras-paises/um.jpg"
+        },
+        {
+            "id": 237,
+            "sigla": "us",
+            "nome": "Estados Unidos",
+            "bandeira": "assets/bandeiras-paises/us.jpg"
+        },
+        {
+            "id": 238,
+            "sigla": "uy",
+            "nome": "Uruguai",
+            "bandeira": "assets/bandeiras-paises/uy.jpg"
+        },
+        {
+            "id": 239,
+            "sigla": "uz",
+            "nome": "Uzbequistão",
+            "bandeira": "assets/bandeiras-paises/uz.jpg"
+        },
+        {
+            "id": 240,
+            "sigla": "va",
+            "nome": "Vaticano",
+            "bandeira": "assets/bandeiras-paises/va.jpg"
+        },
+        {
+            "id": 241,
+            "sigla": "vc",
+            "nome": "São Vicente e Granadinas",
+            "bandeira": "assets/bandeiras-paises/vc.jpg"
+        },
+        {
+            "id": 242,
+            "sigla": "ve",
+            "nome": "Venezuela",
+            "bandeira": "assets/bandeiras-paises/ve.jpg"
+        },
+        {
+            "id": 243,
+            "sigla": "vg",
+            "nome": "Ilhas Virgens Britânicas",
+            "bandeira": "assets/bandeiras-paises/vg.jpg"
+        },
+        {
+            "id": 244,
+            "sigla": "vi",
+            "nome": "Ilhas Virgens Americanas",
+            "bandeira": "assets/bandeiras-paises/vi.jpg"
+        },
+        {
+            "id": 245,
+            "sigla": "vn",
+            "nome": "Vietnã",
+            "bandeira": "assets/bandeiras-paises/vn.jpg"
+        },
+        {
+            "id": 246,
+            "sigla": "vu",
+            "nome": "Vanuatu",
+            "bandeira": "assets/bandeiras-paises/vu.jpg"
+        },
+        {
+            "id": 247,
+            "sigla": "wf",
+            "nome": "Wallis e Futuna",
+            "bandeira": "assets/bandeiras-paises/wf.jpg"
+        },
+        {
+            "id": 248,
+            "sigla": "ws",
+            "nome": "Samoa",
+            "bandeira": "assets/bandeiras-paises/ws.jpg"
+        },
+        {
+            "id": 249,
+            "sigla": "xk",
+            "nome": "Kosovo",
+            "bandeira": "assets/bandeiras-paises/xk.jpg"
+        },
+        {
+            "id": 250,
+            "sigla": "ye",
+            "nome": "Iêmen",
+            "bandeira": "assets/bandeiras-paises/ye.jpg"
+        },
+        {
+            "id": 251,
+            "sigla": "yt",
+            "nome": "Mayotte",
+            "bandeira": "assets/bandeiras-paises/yt.jpg"
+        },
+        {
+            "id": 252,
+            "sigla": "za",
+            "nome": "África do Sul",
+            "bandeira": "assets/bandeiras-paises/za.jpg"
+        },
+        {
+            "id": 253,
+            "sigla": "zm",
+            "nome": "Zâmbia",
+            "bandeira": "assets/bandeiras-paises/zm.jpg"
+        },
+        {
+            "id": 254,
+            "sigla": "zw",
+            "nome": "Zimbábue",
+            "bandeira": "assets/bandeiras-paises/zw.jpg"
+        }
+    ]
+}

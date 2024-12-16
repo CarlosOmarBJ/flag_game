@@ -1,0 +1,169 @@
+{
+   "checksum": "be60df7a73b79b2937a9d1a2ec4bc7af",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13378843404856155",
+            "date_last_used": "0",
+            "guid": "1802d702-0315-44b1-8e16-ef1351d5a95a",
+            "id": "29",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13378825477627877",
+            "date_last_used": "0",
+            "guid": "410077f6-5cd0-4058-962f-cbfec75976b7",
+            "id": "26",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13378823981979602",
+            "date_last_used": "0",
+            "guid": "203e5372-0e9c-49b4-a39d-35698e2cd61b",
+            "id": "23",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13378823852858613",
+            "date_last_used": "0",
+            "guid": "03bc7ceb-e428-4d0c-9817-56442cd2d851",
+            "id": "20",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13378429951086847",
+            "date_last_used": "0",
+            "guid": "97300ed7-dc17-4fbd-8494-e9efb24968b2",
+            "id": "17",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13378428308382567",
+            "date_last_used": "0",
+            "guid": "38335953-98a9-4e98-aded-ac7e935c9aab",
+            "id": "14",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         }, {
+            "date_added": "13378427240614614",
+            "date_last_used": "0",
+            "guid": "b404c453-99a9-469a-9f42-8f17065c2fd6",
+            "id": "6",
+            "name": "Booking.com",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://s3.amazonaws.com/amundsen/redirect/19q2/booking.html?utm_source=win32&utm_medium=favorite",
+            "visit_count": 0
+         } ],
+         "date_added": "13378427240426378",
+         "date_last_used": "0",
+         "date_modified": "13378843404856155",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13331567429000000",
+               "date_last_used": "0",
+               "guid": "6dc425ae-ef17-47dd-9bfb-9dc5b75cd2d9",
+               "id": "8",
+               "name": "Solo Farming In The Tower Mangá (pt-BR) - MangaLivre",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://mangalivre.net/manga/solo-farming-in-the-tower/17402",
+               "visit_count": 0
+            }, {
+               "date_added": "13332015996000000",
+               "date_last_used": "0",
+               "guid": "863e346a-2554-4d81-8c8c-eac463fd1d17",
+               "id": "9",
+               "name": "Keep It a Secret From Your Mother! - Capítulo 1 por MangaTeca Scan",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://mangalivre.net/ler/keep-it-a-secret-from-your-mother/online/317137/1#/!page0",
+               "visit_count": 0
+            } ],
+            "date_added": "13374780754979147",
+            "date_last_used": "0",
+            "date_modified": "13374780754979147",
+            "guid": "65eaa9c3-da93-4803-bdc5-ac513629bde4",
+            "id": "7",
+            "name": "Synced Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13374780754979405",
+            "date_last_used": "0",
+            "date_modified": "13374780754979405",
+            "guid": "78d47399-4e6f-452f-b65c-f0c99d977ce7",
+            "id": "10",
+            "name": "Other Bookmarks",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13374780754979425",
+            "date_last_used": "0",
+            "date_modified": "13374780754979425",
+            "guid": "1f2a4155-83c9-47b4-8ed8-38d6bf3e446a",
+            "id": "11",
+            "name": "Bookmark Bar",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13378427240426380",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13378427240426382",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos do celular",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCOBdrLeTAQAAKg4QABgBIAAoBTAAOABAABIAKhh1d1ZiakNNUEh3a1lTQVdmOWg2cHBnPT1IA6AGDBKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRmOTZkZTFjZC02ZjVhLTUzMmQtOGY2Zi00MWE1N2YxOTgzMjUYACAAKAAw+NW18q0yOP3btfKtMkD927XyrTJKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASrQEIChKoAQocd2dGK296WHArUVg5T3RjWm52WGVWMENWSm5ZPRIkNzhkNDczOTktNGU2Zi00NTJmLWI2NWMtZjBjOTlkOTc3Y2U3GAAgACgAMMLO3/KtMjiV0t/yrTJAldLf8q0yShx1SjNWQlVLWDJZaHdZN0F4bi9wNENxWm5yUkk9Wh8iHatVb2JTaVI3RzJBZVVLQ1MxTlZPcndZY0tZbHc9ZQAAAADCPgJgABKtAQgLEqgBChxFL1l6VWRuQTErWlBtMXUyYng4cFRFMVRqN3M9EiQxZjJhNDE1NS04M2M5LTQ3YjQtOGVkOC0zOGQ2YmYzZTQ0NmEYACAAKAAww87f8q0yOLPS3/KtMkCz0t/yrTJKHHhvTmU3b3FPZlhUSG5PZkdPRGhxNWpWR2FsZz1aHyId1TZwMnBtR2MydjJBM2ZkeXBSM0lodTFSUHRUTT1lAAAAAMI+AmAAEq0BCAkSqAEKHDhtODRVMDRCZVdkSTl3c2Z2WHlBcmxPaFUwcz0SJDg2M2UzNDZhLTI1NTQtNGQ4MS04YzhjLWVhYzQ2M2ZkMWQxNxgAIAAoADDBzt/yrTI4+dHf8q0yQPnR3/KtMkocWHI1b2JCYVI5TjVJQk1vUUc5NmVqY3hBeWV3PVofIh21L0d0TndGOEYvbTNOcmZRT1NFc252M2h1cDlRPWUAAAAAwj4CYAUSrAEICBKnAQoceFpBVUV2d3BQc3RWVUdSeVVlNkZMeDN5NnZVPRIkNmRjNDI1YWUtZWYxNy00N2RkLTliZmItOWRjNWI3NWNkMmQ5GAAgACgAMMDO3/KtMjjd0d/yrTJA3dHf8q0yShxsOGJhb0tKeXBVdFVRRmpVWnVFTWpWWDZwSVE9Wh4iHGpRKzJ6SzhzTXp2ejBpbXk0YXc4eEc1Unk1QT1lAAAAAMI+AmAFEqwBCAcSpwEKHFZFK0pzRkZIbll0VGhBZ0tldlNpTU5SU2djQT0SJDY1ZWFhOWMzLWRhOTMtNDgwMy1iZGM1LWFjNTEzNjI5YmRlNBgAIAAoADC/zt/yrTI4wNHf8q0yQMDR3/KtMkocbzFlTE9wZFJ5L3p6bGp2VldNVXoxTVVBQmdvPVoeIhxWeEZmQTJ4WVVNZkxsVlFtRFltNGxqT0NpM0E9ZQAAAADCPgJgABKOAQgCEokBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiRhYjIyOTMzMS0wNTcxLTVhOGItYjU0NS0yOGMxYjJjN2FlYjcYACAAKAAw+dW18q0yOJrctfKtMkCa3LXyrTJKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAwj4CYAASjgEIAxKJAQocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMzQyZjI2ZWQtNGZjMi01YzE5LWJhODItNTRlODc0ZjAxMWU5GAAgACgAMP7VtfKtMjjT3LXyrTJA09y18q0yShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAAMI+AmAAMAA4AA==",
+   "version": 1
+}
